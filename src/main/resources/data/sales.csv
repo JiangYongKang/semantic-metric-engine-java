@@ -1,0 +1,13 @@
+region,channel,tx_date,amount,qty,order_id
+East,Online,2026-01-05,100.00,2,O1001
+East,Store,2026-01-10,150.50,3,O1002
+North,Online,2026-01-12,100.00,2,O1003
+East,Online,2026-02-03,200.00,1,O1004
+North,Store,2026-02-08,,4,O1005
+South,Online,2026-02-15,300.25,5,O1006
+East,Store,2026-03-01,150.50,3,O1007
+South,Online,2026-03-10,80.00,1,O1008
+North,Online,2026-03-12,100.00,2,O1009
+,Online,2026-03-20,50.00,1,O1010
+East,Online,2026-04-02,200.00,4,O1011
+South,Store,2026-04-09,300.25,6,O1006
